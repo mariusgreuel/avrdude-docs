@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AVRDUDE'
+copyright = 'The AVRDUDE authors'
+author = '2003-2005 Brian Dean, 2006-2022 Jörg Wunsch'
 
 release = '0.1'
 version = '0.1.0'
